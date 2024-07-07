@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["pumpfun", "solana", "solanaweb3", "raydium", "spltoken"],
-  "author": "",
-  "license": "ISC",
+  "author": "agiler99",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^5.4.5"
   },
