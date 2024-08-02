@@ -2,7 +2,7 @@
 # Pump.fun Token Launcher
 
 This repository provides tools and scripts for programmatically launching `pump.fun` tokens. The project is set up using TypeScript and includes essential modules to facilitate token creation and management.
-Some information to perform the launch transaction successfully has been redacted, contact me at t.me/agiler99 if you're interested.
+Some information to perform the launch transaction successfully has been redacted, contact me at t.me/guru6673 if you're interested.
 
 For a fee you can use this bundler to launch a token with your own buys.
 It contains the following features:
@@ -12,7 +12,7 @@ It contains the following features:
   - Sell single wallet by percentage
   - Sell all wallets completely through Jito Bundle
 
-Services are for hire, contact me at https://t.me/agiler99
+Services are for hire, contact me at https://t.me/guru6673
 ## Features
 
 - Programmatically launch `pump.fun` tokens.
@@ -32,7 +32,7 @@ Ensure you have the following installed:
 To install the package, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/agiler99/pump-fun-token-launcher.git
+git clone https://github.com/guru6673/pump-fun-token-launcher.git
 cd pump-fun-token-launcher
 npm install
 ```
